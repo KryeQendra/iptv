@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,https://flylinks.net,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0,https://flylinks.net,RTV Pendimi
+http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+
